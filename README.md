@@ -38,6 +38,6 @@ To run this project locally, you will need XAMPP and MySQL Workbench. Follow the
 * Use the link provided on the registration page to view the list of registered students.
 
 ## Files included
-* `index.html`: Main registration form where students can input their details to register for a project demonstration time slot.
-* `index2.html`: Page displaying the list of registered students with their details, along with buttons to navigate to the registration form and this list.
+* `index.php`: Main registration form where students can input their details to register for a project demonstration time slot.
+* `index2.php`: Page displaying the list of registered students with their details, along with buttons to navigate to the registration form and this list.
 * `styles.css`: Stylesheet that provides the design and layout for the HTML pages.
